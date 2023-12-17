@@ -1,2 +1,4 @@
 .env
 .hypothesis/
+my_scripts
+__pycache__
