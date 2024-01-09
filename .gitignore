@@ -2,3 +2,7 @@
 .hypothesis/
 my_scripts
 __pycache__
+# knowledge_db
+easy_rl
+prompt_engineering
+pumkin_book
