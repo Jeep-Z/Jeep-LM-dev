@@ -1,4 +1,5 @@
 .env
+.vscode
 .hypothesis/
 my_scripts
 __pycache__
