@@ -11,3 +11,9 @@ vector_db
 
 # llm_models
 llm_models
+
+# nltk_data
+nltk_data
+
+.cache
+test.py
